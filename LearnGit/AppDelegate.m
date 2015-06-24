@@ -22,6 +22,7 @@
     [self.window makeKeyAndVisible];
     
     NSLog(@"我的第一次修改");
+    NSLog(@"你是搞笑的");
     
     return YES;
 }
